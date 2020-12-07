@@ -1,0 +1,5 @@
+Các bước xử lý task trong REACT:
+-B1: Dàn layout (chia bố cục, chia component)
+-B2: Xác định nguồn dữ liệu thay đổi trên giao diện khi người dùng thao tác (xác định state).
+    +Tổ chức lưu trữ
+-B3: Xử lý chức năng event khi người dùng thao tác làm thay đổi state
